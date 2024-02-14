@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/@font-face/89a943d87a9f3ee2342f75b39d3de405.eot",
+      "sha1": "e1324f2733480db37c822b78ba0091da5c24761a"
+    },
+    {
+      "path": "assets/fonts/@font-face/89a943d87a9f3ee2342f75b39d3de405.svg",
+      "sha1": "a98a65ed2c1f8dcbbca8675c5950fb33fc39bc3b"
+    },
+    {
+      "path": "assets/fonts/@font-face/89a943d87a9f3ee2342f75b39d3de405.ttf",
+      "sha1": "c18b9f5e1dee149e85cc18167535ef73830d831c"
+    },
+    {
+      "path": "assets/fonts/@font-face/89a943d87a9f3ee2342f75b39d3de405.woff",
+      "sha1": "3d1c7542e7ed18bdf1f1bb014954654e9f842ee9"
+    },
+    {
+      "path": "assets/fonts/@font-face/89a943d87a9f3ee2342f75b39d3de405.woff2",
+      "sha1": "38422d066a54d0ea8b25efd45aebc6fa15e83b8a"
+    },
+    {
+      "path": "assets/fonts/@font-face/Demo.html",
+      "sha1": "752cdc534f292b4324c63b841bd6e843178764dc"
+    },
+    {
+      "path": "assets/fonts/Accent Graphic W00 Medium.ttf",
+      "sha1": "c18b9f5e1dee149e85cc18167535ef73830d831c"
+    }
+  ]
+}
